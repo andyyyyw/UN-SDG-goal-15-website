@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Koh+Santepheap:wght@100;300;400;700;900&family=Lora:ital,wght@0,400..700;1,400..700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="shopstyle.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" />
+    <title>GOAL 15 | Department of Economic and Social affairs shop</title>
+    
+</head>
+<body>
+	<section>
+		<header>
+			<a href="home.html"><img src="E_SDG-goals_icons-individual-rgb-15.png" alt="logo"></a> 
+			<ul class="navbar">
+				<li><a href="home.html" target="_blank" >HOME</a></li>
+				<li><a href="Gallery.html" target="_blank">GALLERY</a></li>
+				<li><a href="shop.html" >SHOP</a></li>
+				<li><a href="feedback.html" target="_blank">FEEDBACK</a></li>
+				<li><a href="userprofile.html" target="_blank">USER&nbsp;&nbsp;PROFILE</a></li>
+				<li><a href="aboutus.html" target="_blank">ABOUT&nbsp;&nbsp;US</a></li>
+				<li><a href="sitemap.html" target="_blank">SITE&nbsp;&nbsp;MAP</a></li>
+			</ul>
+		</header>
+	</section>
+	<section id="prodetails" class="section-p1">
+		<div class="single-pro-image">
+			<img src="plantable-card.png" width="100%" id="MainImg" alt="tshirt1">
+			
+			<div class="small-img-group">
+				<div class="small-img-col">
+					<img src="plantable-card.png" width="100%" class="small-image">
+				</div>
+				<div class="small-img-col">
+					<img src="card2.png" width="100%" class="small-image">
+				</div>
+			</div>
+		</div>
+		<div class="single-pro-details">
+			<h3>Biodegradable</h3>
+			<h4>Plantable Birthday Greeting Card</h4>
+			<h2>$3.99</h2>
+			<div class="options">
+				<select>
+					<option>Select Size</option>
+					<option>A5</option>
+				</select>
+				<input type="number" value="1">
+			</div>
+			<button>Add To Cart</button>
+			<h4>Product Details</h4>
+			<Span>Plant you card back to life; the paper is handmade from 100% recycled paper and seeds.
+			After the card has been gifted the WHOLE card can be planted in a garden with just a bit of water and light and 
+			love grow into beautiful flowers, how cool is that?</Span>
+			
+		</div>
+	</section>
+	
+	<footer class="footer">
+        <ul class="members">
+            <li><a href="editor-lineli.html">Lineli&nbsp;&nbsp;Wijesinghe</a></li>
+            <li><a href="#" target="_blank">Ranindi&nbsp;&nbsp;Fernando</a></li>
+            <li><a href="#" target="_blank">Hasindie&nbsp;&nbsp;Dissanayake</a></li>
+            <li><a href="#" target="_blank">Tharushi&nbsp;&nbsp;Landewatthe</a></li>
+        </ul>
+    </footer>
+	<script>
+		var MainImg =document.getElementById("MainImg");
+		var smallimg=document.getElementByClassName("small-img");
+		
+		smallimg[0].onclick = function(){
+			MainImg.src= smallimg[0].src;
+		}
+		smallimg[1].onclick = function(){
+			MainImg.src= smallimg[1].src;
+		}
+	</script>
+	
+   
+
+    <script src="shopcart2.js" ></script>
+</body>
+</html>
+	
+	

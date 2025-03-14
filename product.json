@@ -1,0 +1,146 @@
+ [
+	{
+		"id":1,
+		"name": "Mother Nature Tote bag",
+		"price":10.88,
+		"image":"tote1.png"
+	},
+	{
+		"id":2,
+		"name": "Cow Meme Tote bag",
+		"price":10.88,
+		"image":"tote2.png"
+	},
+	{
+		"id":3,
+		"name": "Organic Meme Tote bag",
+		"price":10.88,
+		"image":"tote3.png"
+	},
+	{
+		"id":4,
+		"name": "Cat Meme Tote bag",
+		"price":10.88,
+		"image":"tote4.png"
+	},
+	{
+		"id":5,
+		"name": "Bamboo Breeze Straws(5 pack)",
+		"price":3.99,
+		"image":"bamboo-straws.png"
+	},
+	{
+		"id":6,
+		"name": "Ecoscribe Newspaper Pencils Pack",
+		"price":3.99,
+		"image":"newspaper-pencil.png"
+	},
+	{
+		"id":7,
+		"name": "Ecoscribe Notebook(120Pg) ",
+		"price":10.88,
+		"image":"notebook.png"
+	},
+	{
+		"id":8,
+		"name": "Plantable Birthday Greeting Card",
+		"price":3.99,
+		"image":"plantable-card.png"
+	},
+	{
+		"id":9,
+		"name": "Eco-Friendly Double Wall Bamboo flask(500ml)",
+		"price":18.99,
+		"image":"water-bottle.png"
+	},
+	{
+		"id":10,
+		"name": "Bamboo Qtip Holder Dispenser",
+		"price":9.88,
+		"image":"home-decor1.png"
+	},
+	{
+		"id":11,
+		"name": "Eco Essence Glass Vase Frame",
+		"price":13.99,
+		"image":"home-decor2.png"
+	},
+	{
+		"id":12,
+		"name": "Seed Starter Peat Pot(40 pack)",
+		"price":9.99,
+		"image":"pot.png"
+	},
+	{
+		"id":13,
+		"name": "Tribal Treasure Bangles(14 Pack)",
+		"price":15.88,
+		"image":"bangles.png"
+	},
+	{
+		"id":14,
+		"name": "Tribal Treasure Hoop Earrings",
+		"price":6.99,
+		"image":"earring1.png"
+	},
+	{
+		"id":15,
+		"name": "Sustainable Heart Earrings",
+		"price":5.99,
+		"image":"earring2.png"
+	},
+	{
+		"id":16,
+		"name": "Earthen Elegance Necklace",
+		"price":8.99,
+		"image":"necklace.png"
+	},
+	{
+		"id":17,
+		"name": "Woven for Life Crotchet Basket(UN Sustainable Goals Logo Embeded)",
+		"price":14.99,
+		"image":"crotchet-basket.png"
+	},
+	{
+		"id":18,
+		"name": "Sustainable Sip Mug(UN Sustainable Goals Logo Embeded)",
+		"price":12.99,
+		"image":"mug.png"
+	},
+	{
+		"id":19,
+		"name": "Sustainable Seasponge and Loofah(UN Sustainable Goals Logo Embeded",
+		"price":10.99,
+		"image":"loofah.png"
+	},
+	{
+		"id":20,
+		"name": "Animal Liberation Tee-shirt",
+		"price":12.99,
+		"image":"tshirt1.png"
+	},
+	{
+		"id":21,
+		"name": "Earth Tee-shirt",
+		"price":12.99,
+		"image":"tshirt2.png"
+	},
+	{
+		"id":22,
+		"name": "Protect Wildlife Tee-shirt",
+		"price":12.99,
+		"image":"tshirt3.png"
+	},
+	{
+		"id":23,
+		"name": "Squidward Tee-shirt",
+		"price":12.99,
+		"image":"tshirt4.png"
+	},
+	{
+		"id":24,
+		"name": "Protect Wildlife Tee-shirt",
+		"price":12.99,
+		"image":"tshirt5.png"
+	},
+]
